@@ -1,0 +1,4 @@
+1,Barcelona,FCBarcelona,España
+2,PSG,Paris,Francia
+3,Bayern,Munich,Alemania
+4,ManchesterUnited,Manchester,Inglaterra
